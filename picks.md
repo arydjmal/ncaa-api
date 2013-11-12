@@ -15,6 +15,7 @@ Get picks
     "region": "East",
     "wins": 20,
     "loses": 30
+    "percent_selected":67
   },
   {
     "id": "2",
@@ -23,6 +24,7 @@ Get picks
     "region": "East",
     "wins": 25,
     "loses": 25
+    "percent_selected":67
   },
   {
     "id": "3",
@@ -31,6 +33,7 @@ Get picks
     "region": "East",
     "wins": 25,
     "loses": 25
+    "percent_selected":67
   }
 ]
 ```
