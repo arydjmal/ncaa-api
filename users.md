@@ -39,3 +39,13 @@ Get user
   "updated_at": "2014-01-01T13:00:00-05:00"
 }
 ```
+
+* `POST /users/register.json` will add the new user to the app from the parameters passed
+
+```json
+{
+  "lucie_id":1,
+  "email":"new_user@gmail.com",
+  "name":"Joe User"	
+}
+```
