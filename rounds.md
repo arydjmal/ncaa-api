@@ -22,6 +22,7 @@ Get rounds
           "wins": 20,
           "loses": 30,
           "score": 90
+		  "percent_selected":45
         },
         "away_team": {
           "id": "2",
@@ -31,6 +32,7 @@ Get rounds
           "wins": 25,
           "loses": 25,
           "score": 100
+  		  "percent_selected":45
         },
         "winner_team_id": "2",
         "starts_at": "2014-01-01T13:00:00-05:00",
@@ -62,6 +64,7 @@ Get round
         "wins": 20,
         "loses": 30,
         "score": 90
+		"percent_selected":45
       },
       "away_team": {
         "id": "2",
@@ -70,6 +73,7 @@ Get round
         "wins": 25,
         "loses": 25,
         "score": 100
+		"percent_selected":32
       },
       "winner_team_id": "2",
       "starts_at": "2014-01-01T13:00:00-05:00",
